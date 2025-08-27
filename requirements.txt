@@ -2,7 +2,9 @@ setuptools
 python-dotenv
 pandas
 numpy
+pymongo[srv]==3.12
 pymongo
 certifi
-
+dotenv
+scikit-learn
 # -e .
